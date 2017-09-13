@@ -1,4 +1,4 @@
-# D2V Analytics Python Example
+# D2V Analytics Example
 
 This is D2V Analytics Core sample project demonstrating analytics using Python and R. Currently only the Python example is available.
 
